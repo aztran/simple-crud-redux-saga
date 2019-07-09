@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Andra",
+      "title": "A New Title",
+      "post": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis rerum dicta placeat et molestiae minus minima ex, aliquam quasi nostrum quis eum? Ducimus repudiandae tempora, quo sed enim magnam praesentium.",
+      "date": "02-07-2019"
+    },
+    {
+      "id": 2,
+      "author": "testing",
+      "title": "A new Redux Saga",
+      "post": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis rerum dicta placeat et molestiae minus minima ex, aliquam quasi nostrum quis eum? Ducimus repudiandae tempora, quo sed enim magnam praesentium.",
+      "date": "02-07-2019"
+    },
+    {
+      "title": "ab",
+      "author": "andra",
+      "post": "sd",
+      "date": "2019-07-09T09:40:27.538Z",
+      "id": 3
+    },
+    {
+      "title": "yea",
+      "author": "andra",
+      "post": "abc",
+      "date": "2019-07-09T10:02:03.877Z",
+      "id": 4
+    }
+  ]
+}
